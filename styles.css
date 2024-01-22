@@ -1,0 +1,75 @@
+            body {
+                background-image: url(https://mb.com.ph/media/Taal_Volcano_Batangas_5eb0502cd5/Taal_Volcano_Batangas_5eb0502cd5.jpg);
+                background-repeat: no-repeat;
+                background-size: 100%;
+                background-attachment: fixed;
+                font-family: "Comfortaa", sans-serif;
+            }
+
+            header {
+                text-align: center;
+                border: solid;
+                border-radius:20px;
+                margin-top: 30px;
+                margin-right: auto;
+                margin-left: auto;
+                width: 500px;
+                background-color: rgba(255, 255, 255, 0.2);
+            }
+
+            h3 {
+                margin-top: 50px;
+                margin-left: 200px;
+                text-decoration: overline underline;
+            }
+
+            .desc, .plwn {
+                color: white;
+                border: dotted;
+                border-radius: 20px;
+                border-color: white;
+                width: 485px;
+                margin: 5px;
+                background-color: rgba(0, 0, 0, 0.3);
+            }
+
+            .main-desc {
+                text-align: center;
+                border: solid;
+                border-radius:20px;
+                margin-top: 30px;
+                margin-right: auto;
+                margin-left: auto;
+                width: 1500px;
+                padding: 15px;
+                background-color: rgba(255, 255, 255, 0.2);
+            }
+
+            .img {
+                height: 300px;
+                width: 485px;
+            }
+
+            .hdr {
+                text-align: center;
+            }
+
+            .places, .bohol {
+                display: inline-block;
+                align-items: center;
+                margin: 10px;
+            }
+
+            .bohol {
+                margin-left: 200px;
+            }
+
+            .plwn {
+                margin-bottom: 20px;
+            }
+
+            .img, p {
+                text-align: center;
+                display: block;
+                margin: 0 auto;
+            }
